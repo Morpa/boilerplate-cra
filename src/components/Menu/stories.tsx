@@ -1,14 +1,14 @@
-import { Story, Meta } from "@storybook/react";
-import Menu from ".";
+import { Story, Meta } from '@storybook/react'
+import Menu from '.'
 
 export default {
-  title: "Menu",
+  title: 'Menu',
   component: Menu,
   parameters: {
     backgrounds: {
-      default: "dark",
-    },
-  },
-} as Meta;
+      default: 'dark'
+    }
+  }
+} as Meta
 
-export const Default: Story = () => <Menu />;
+export const Default: Story = () => <Menu />

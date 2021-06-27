@@ -1,6 +1,6 @@
-import { NavLink } from "react-router-dom";
+import { NavLink } from 'react-router-dom'
 
-import * as S from "./styles";
+import * as S from './styles'
 
 const Menu = () => (
   <S.Nav>
@@ -17,6 +17,6 @@ const Menu = () => (
       </S.Item>
     </S.List>
   </S.Nav>
-);
+)
 
-export default Menu;
+export default Menu

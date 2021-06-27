@@ -1,5 +1,6 @@
-import Main from "components/Main";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
+
+import Main from 'components/Main'
 
 export function App() {
   return (
@@ -13,5 +14,5 @@ export function App() {
         </Route>
       </Switch>
     </Router>
-  );
+  )
 }

@@ -1,9 +1,9 @@
-import Menu from "components/Menu";
-import React from "react";
+import Menu from 'components/Menu'
+import React from 'react'
 
-import * as S from "./styles";
+import * as S from './styles'
 
-const Main = ({ description = "CRA, TypeScript e Styled Components" }) => (
+const Main = ({ description = 'CRA, TypeScript e Styled Components' }) => (
   <S.Wrapper>
     <S.Logo
       src={`${process.env.PUBLIC_URL}/logo.svg`}
@@ -17,6 +17,6 @@ const Main = ({ description = "CRA, TypeScript e Styled Components" }) => (
 
     <Menu />
   </S.Wrapper>
-);
+)
 
-export default Main;
+export default Main
