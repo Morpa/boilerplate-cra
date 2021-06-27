@@ -1,4 +1,4 @@
-<h1 align="center">Next Boilerplate</h1>
+<h1 align="center">CRA Boilerplate</h1>
 
 <p align="center">
   <img alt="Made by" src="https://img.shields.io/badge/made%20by-Morpa%20-%2356BEB8">
