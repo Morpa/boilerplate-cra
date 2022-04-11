@@ -2484,10 +2484,10 @@
     npmlog "^4.1.2"
     pretty-hrtime "^1.0.3"
 
-"@storybook/node-logger@^6.4.9":
-  version "6.4.9"
-  resolved "https://registry.yarnpkg.com/@storybook/node-logger/-/node-logger-6.4.9.tgz#7c28f16f5c61feda8f45fa2c06000ebb87b57df7"
-  integrity sha512-giil8dA85poH+nslKHIS9tSxp4MP4ensOec7el6GwKiqzAQXITrm3b7gw61ETj39jAQeLIcQYGHLq1oqQo4/YQ==
+"@storybook/node-logger@^6.4.21":
+  version "6.4.21"
+  resolved "https://registry.yarnpkg.com/@storybook/node-logger/-/node-logger-6.4.21.tgz#f4606e345f1896e8ee709ced42d4cd7dc5c5f7ec"
+  integrity sha512-iCQ6ToARy0Ri6oP3UPDGsiIqDKf/gsL3XwZ5iPj80HyuCdUwm2dB+e3/09gD7XkHNkY2//TxKOUxcAkorQRFUQ==
   dependencies:
     "@types/npmlog" "^4.1.2"
     chalk "^4.1.0"
